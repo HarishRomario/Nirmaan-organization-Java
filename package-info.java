@@ -1,1 +1,1 @@
-package day7;
+package Day6;
